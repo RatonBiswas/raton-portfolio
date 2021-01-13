@@ -18,7 +18,7 @@ function Home() {
                     <p className={classes.name}>Raton Biswas</p>
                     <div style={{display:'flex', alignItems:'center', marginBottom:'20px'}}>
                         <LocationIcon height={14} width={14} fill='#EE4047' />
-                        <p className={classes.locationInfo}>Shukrabad, Dhaka, Banngladesh</p>
+                        <p className={classes.locationInfo}>Shukrabad, Dhaka, Bangladesh</p>
                     </div>
                 </div>
                 <p className={classes.headerTxt}>Taking ideas <span className={classes.headerSpan}>Giving them life</span></p>
