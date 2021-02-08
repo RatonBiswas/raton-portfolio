@@ -6,9 +6,17 @@
 }
 
 .photo {
-  width: 8rem;
-  height: 8rem;
-  border-radius: 50%;
+  width: 320px;
+  border-radius: 10px;
+  transform: scale(.95);
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  transition: all 1s;
+}
+.photo:hover {
+  transform: scale(1);
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 .name {
@@ -38,6 +46,7 @@
   margin-bottom: 4rem;
   width: 60%;
   color: var(--theme-page-text);
+  line-height: 3;
 }
 
 .headerSpan {
