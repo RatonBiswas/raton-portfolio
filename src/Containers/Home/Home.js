@@ -27,8 +27,8 @@ function Home() {
                 <p style={{textAlign:'center'}}>
                 Hi! I'm Raton a passionate software engineer and welcome to my personal website. I'm currently looking for new opportunity,
                 Feel free to look around, or just say hi if you want to reach out.I develop web applications.
-                My basic skill is based on JavaScript, Nodejs, Expressjs, mongoDb and I love to do most of the things using JavaScript.
-                I love to make the web more open to the world.I'm currently learning React.
+                My basic skill is based on JavaScript, React Js, Nodejs, Expressjs, mongoDb and I love to do most of the things using JavaScript.
+                I love to make the web more open to the world.I'm currently learning ETL.
                 I am currently pursuing my bachelor's degree at Daffodil International University.
                 </p>
             </div>
