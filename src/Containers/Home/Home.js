@@ -1,5 +1,5 @@
 import classes from "./Home.module.scss";
-import photo from "../../assets/raton.jpeg";
+import photo from "../../assets/raton.jpg";
 import LocationIcon from "../../assets/icons/LocationIcon";
 import { SocialIcon } from "../../Components/SocialIcon/SocialIcon";
 import { socialLinks } from "../../Utils/Constants";
